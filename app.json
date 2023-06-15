@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "React-native-job",
-    "slug": "React-native-job"
+    "name": "jobsift",
+    "slug": "jobsift"
   }
 }
